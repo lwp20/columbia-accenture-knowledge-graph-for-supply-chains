@@ -1,1 +1,1 @@
-# Capstone-Knowledge-Graph-for-Supply-Chains
+# Columbia Accenture Knowledge Graph for Supply Chains
