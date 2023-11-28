@@ -10,4 +10,4 @@ Overall, we built a Q&A system leveraging the LLM's understanding of user querie
 
 ![4](https://github.com/lwp20/columbia-accenture-knowledge-graph-for-supply-chains/assets/111889976/b2fa5a1f-b6f2-4675-a700-f3fe51439c27)
 
-We also evaluated the level of hallucinations of different LLMs using triplets extracted from relevant content and answers,providing qualitative and quantitive analysis。
+We also evaluated the level of hallucinations of different LLMs using triplets extracted from relevant content and answers,providing qualitative and quantitive analysis.
