@@ -11,7 +11,8 @@ The project aims to address the complex challenges in supply chain management an
 
 Overall, we built a Q&A system leveraging the LLM's understanding of user queries and the extracted relevant content, personalized recommendations will be provided to the users.We also evaluated the level of hallucinations of different LLMs using triplets extracted from relevant content and answers,providing qualitative and quantitive analysis.
 
-![graph](https://github.com/lwp20/columbia-accenture-knowledge-graph-for-supply-chains/assets/111889976/31c14d83-58f0-4f3c-9118-f4266ac9f24e)
+![model](https://github.com/lwp20/columbia-accenture-knowledge-graph-for-supply-chains/assets/111889976/2029c11d-4cb3-4991-9df6-8a1975fe8e64)
+
 
 
 According to our research, adding a knowledge graph improves the quality of question answering with large language models by including more related information while reducing hallucination. Besides, larger models tend to have a lower level of hallucination. Further work will focus on optimizing the knowledge graph with more data to further improve the chatbot.
