@@ -11,3 +11,6 @@ Overall, we built a Q&A system leveraging the LLM's understanding of user querie
 ![4](https://github.com/lwp20/columbia-accenture-knowledge-graph-for-supply-chains/assets/111889976/b2fa5a1f-b6f2-4675-a700-f3fe51439c27)
 
 We also evaluated the level of hallucinations of different LLMs using triplets extracted from relevant content and answers,providing qualitative and quantitive analysis.
+
+According to our research, adding a knowledge graph improves the quality of question answering with large language models by including more related information while reducing hallucination. Besides, larger models tend to have a lower level of hallucination. Further work will focus on optimizing the knowledge graph with more data to further improve the chatbot.
+
