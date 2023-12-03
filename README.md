@@ -4,7 +4,7 @@ Team Member: Ruochen Zhang(rz2597), Yunjie Qian (yq2354), Weipeng Li (wl2864), L
 
 The project aims to address the complex challenges in supply chain management and inventory decisions through the innovative solution, KnowledgeGraph+. By seamlessly integrating cutting-edge Large Language Models (LLMs) with Knowledge Graphs, the project aims to redefine efficiency and optimization in various industries. 
 
-![3](https://github.com/lwp20/columbia-accenture-knowledge-graph-for-supply-chains/assets/111889976/7228858d-db7a-464d-a67c-5e907a9d31eb)
+![graph](https://github.com/lwp20/columbia-accenture-knowledge-graph-for-supply-chains/assets/111889976/31c14d83-58f0-4f3c-9118-f4266ac9f24e)
 
 Overall, we built a Q&A system leveraging the LLM's understanding of user queries and the extracted relevant content, personalized recommendations will be provided to the users.
 
