@@ -32,18 +32,18 @@ According to our research, adding a knowledge graph improves the quality of ques
 ├───codes
 │       chatbot_triplet_pipeline.ipynb
 ├───────data_collection
-│       arxiv_scrape.py
-│       google_chrome_scraper.py
+│         arxiv_scrape.py
+│         google_chrome_scraper.py
 ├───────divided_models
-│       Llama2_inference.ipynb
-│       Sparql_Generation.ipynb
+│         Llama2_inference.ipynb
+│         Sparql_Generation.ipynb
 ├───────evaluation
-│       evaluation.ipynb
+│         evaluation.ipynb
 ├───────knowledge_graph
-│       Triple_Extraction_with_BLOOM_Neo4j.ipynb
-│       Triple_Retrieval_Workflow.ipynb
+│         Triple_Extraction_with_BLOOM_Neo4j.ipynb
+│         Triple_Retrieval_Workflow.ipynb
 ├───────text-extraction_embedding
-│       Text Extraction.ipynb
-│       Text_Splitting.ipynb
-│       sentence_embedding_pipeline.ipynb
+│         Text Extraction.ipynb
+│         Text_Splitting.ipynb
+│         sentence_embedding_pipeline.ipynb
 ```
